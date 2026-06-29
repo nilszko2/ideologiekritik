@@ -1,0 +1,31 @@
+# Anhänge (PDFs, ePubs, Bilder) — zu groß und teils sensibel
+07_Anhang/*
+!07_Anhang/.gitkeep
+!07_Anhang/README.md
+
+# Obsidian Workspace-State (ändert sich ständig)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Claude Code lokale Einstellungen
+.claude/settings.local.json
+.claude/projects/
+
+# OS-Müll
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+
+# Obsidian Papierkorb
+.trash/
+
+# Node
+node_modules/
+.wrangler/
+.dev.vars

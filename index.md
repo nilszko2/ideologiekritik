@@ -1,11 +1,13 @@
 # Ideologiekritik-Vault — Index
 
 > Content catalog. Read this first to find relevant pages.
-> Last updated: 2026-06-29 | Total pages: ~195
-> ObsidianVault: `/opt/data/ideologiekritik-vault/` (flache Struktur)
+> Last updated: 2026-06-29 | Total pages: ~240
+> Obsidian Vault: `/opt/data/ideologiekritik-vault/` (flache Struktur, alle Dateien direkt im Root)
 
-## Konzept-Zettel (8)
-- [[Konzept - Gaza-Blockade]] — Blockade als umfassende Kontrollstruktur
+## 01_Zettel — Atomare Notizen (18 neu, Juni 2026)
+
+### Konzept-Zettel
+- [[Konzept - Gaza-Blockade]] — Blockade als Kontrollstruktur (Bewegung, Ressourcen, Daten)
 - [[Konzept - Rüstungsökonomie]] — Materielle Ketten hinter Frontmeldungen
 - [[Konzept - Regulatory Capture]] — Regulierungsbehörden und Corporate Power
 - [[Konzept - Plattformmacht]] — Digitale Infrastruktur als Macht
@@ -14,7 +16,7 @@
 - [[Konzept - KI-Sicherheit]] — KI-Modelle als staatliche Cyber-Architektur
 - [[Konzept - Digitaler Euro]] — Programmierbare Zahlungen als Überwachung
 
-## Tageszettel (10)
+### Tageszettel (19.-28.06.2026)
 - [[Tageszettel - 2026-06-19]] — Parlamentsagenda ist Machtagenda
 - [[Tageszettel - 2026-06-20]] — Zugang ist Macht
 - [[Tageszettel - 2026-06-21]] — Waffenruhe ist kein Frieden
@@ -26,7 +28,7 @@
 - [[Tageszettel - 2026-06-27]] — Kriegsökonomie als Infrastrukturkampf
 - [[Tageszettel - 2026-06-28]] — Infrastrukturpolitik und Regulierung
 
-## MOCs — Maps of Content (4)
+## 03_MOCs — Maps of Content (4 neu, Juni 2026)
 - [[MOC - Gaza-Blockade & Nahost]] — Nahost-Krieg & Blockade
 - [[MOC - Rüstungsökonomie]] — Rüstung & Kriegs-Infrastruktur
 - [[MOC - Demokratie & Sprachpolitik]] — Demokratieförderung & Sprachpolitik
@@ -43,30 +45,6 @@
 
 ## Theorie-Grundlagen (1)
 - [[theorie_literatur_spuren_funktionale_intransparenz]] — Funktionale Intransparenz Literatur
-
-## Filmanalysen (61)
-- [[Analyse - Joker (2019)]] — W.M. Schmitt
-
-## Personen (30+)
-- [[Person - Srnicek, Nick]] — Nick Srnicek
-- [[Person - Holzkamp, Klaus]] — Klaus Holzkamp
-- [[Person - Althusser, Louis]] — Louis Althusser
-- [[Person - Dörre, Klaus]] — Klaus Dörre
-- [[Person - Lukács, Georg]] — Georg Lukács
-- [[Person - Butler, Judith]] — Judith Butler
-- [[Person - Poulantzas, Nicos]] — Nicos Poulantzas
-- ... (30+ Personen)
-
-## Konzepte existierende (20+)
-- [[Konzept - Szenisches Verstehen (Lorenzer)]]
-- [[Konzept - Kulturindustrie]]
-- [[Konzept - Repressive Entsublimierung (Marcuse)]]
-- [[Konzept - Hauntology (Fisher-Derrida)]]
-- [[Konzept - Ideologische Staatsapparate (Althusser)]]
-- ... (20+ Konzepte)
-
-## Quellenmappen Ordner (44 daily)
-<!-- Alle Quellenmappen sind auch flach im Vault als verfügbar -->
 
 ## Reflexion
 <!-- ADHD-ND voice notes and reflections -->
