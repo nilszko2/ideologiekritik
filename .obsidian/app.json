@@ -1,0 +1,7 @@
+{
+  "app": "obsidian",
+  "version": "1.0",
+  "properties": {
+    "basePath": "/opt/data/ideologiekritik-vault"
+  }
+}
