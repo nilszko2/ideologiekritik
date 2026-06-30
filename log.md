@@ -11,6 +11,11 @@
 - Imported 3 Diskursanalyse docs
 - Imported 1 Theorie-Grundlagen doc
 
+## [2026-06-30] update | Abendpodcast Quellenmappe erstellt
+- Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-06-30.md`
+- Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-06-30.md`
+- Index aktualisiert (45 Quellenmappen), Log erweitert
+
 ## [2026-06-29] ingest | GitHub sync + Zettel-Extraktion
 - Cloned GitHub repo `nilszko2/ideologiekritik` (205 existing notes)
 - Synced 48 new files (44 Quellenmappen + Diskurs + Theorie + SCHEMA)

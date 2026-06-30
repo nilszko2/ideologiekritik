@@ -34,9 +34,9 @@
 - [[MOC - Demokratie & Sprachpolitik]] — Demokratieförderung & Sprachpolitik
 - [[MOC - Digitale Macht & KI]] — Digitale Macht & KI-Regulierung
 
-## Quellenmappen (44)
-- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
-- ... (44 daily briefings, 2026-05-15 bis 2026-06-28)
+## Quellenmappen (45)
+|- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
+|- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
 
 ## Diskursanalyse (3)
 - [[literatur_diskurskarte_linkspolitik_20260511]] — Linke-politik Diskurskarte
