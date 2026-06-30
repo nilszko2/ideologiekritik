@@ -21,3 +21,4 @@
 - **4 MOCs erstellt:** Gaza-Blockade & Nahost, Rüstungsökonomie, Demokratie & Sprachpolitik, Digitale Macht & KI
 - Index aktualisiert (240 total pages)
 - Cronjobs updated to write to GitHub repo + auto-push every 6h
+- update 2026-06-30: Abendpodcast/Quellenmappe erstellt
