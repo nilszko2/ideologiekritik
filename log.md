@@ -27,3 +27,5 @@
 - Index aktualisiert (240 total pages)
 - Cronjobs updated to write to GitHub repo + auto-push every 6h
 - update 2026-06-30: Abendpodcast/Quellenmappe erstellt
+
+- 2026-07-01 update: Heterotopienmöglichkeiten-Strang angelegt: MOC, Konzept Heterotopie, Negative Dialektik als nüchterne Kenntnisnahme, Positive Nachrichten als Krisenindikatoren, Projekt Positive Nachrichten als Heterotopienmaterial.

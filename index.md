@@ -7,6 +7,9 @@
 ## 01_Zettel — Atomare Notizen (18 neu, Juni 2026)
 
 ### Konzept-Zettel
+- [[Konzept - Heterotopie]] — reale Gegen-Orte / Gegenlogiken im Bestehenden
+- [[Konzept - Positive Nachrichten als Krisenindikatoren]] — Good News als Material für Gegeninstitutionen
+- [[Konzept - Negative Dialektik als nüchterne Kenntnisnahme]] — Adorno-Methode für positive und negative Krisenfälle
 - [[Konzept - Gaza-Blockade]] — Blockade als Kontrollstruktur (Bewegung, Ressourcen, Daten)
 - [[Konzept - Rüstungsökonomie]] — Materielle Ketten hinter Frontmeldungen
 - [[Konzept - Regulatory Capture]] — Regulierungsbehörden und Corporate Power
@@ -29,6 +32,7 @@
 - [[Tageszettel - 2026-06-28]] — Infrastrukturpolitik und Regulierung
 
 ## 03_MOCs — Maps of Content (4 neu, Juni 2026)
+- [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] — Positive Nachrichten + Corporate Watch als dialektisches Material progressiver Gegenformen
 - [[MOC - Gaza-Blockade & Nahost]] — Nahost-Krieg & Blockade
 - [[MOC - Rüstungsökonomie]] — Rüstung & Kriegs-Infrastruktur
 - [[MOC - Demokratie & Sprachpolitik]] — Demokratieförderung & Sprachpolitik
@@ -50,6 +54,7 @@
 <!-- ADHD-ND voice notes and reflections -->
 
 ## Corporate Watch
+- [[Projekt - Positive Nachrichten als Heterotopienmaterial]] — Good News + Corporate Watch als Materialpool für progressive Heterotopien
 <!-- Corporate power, billionaire misconduct, regulatory capture -->
 
 ## ADHD-ND-Erkenntnisse
