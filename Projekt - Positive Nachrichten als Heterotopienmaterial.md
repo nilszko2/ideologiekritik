@@ -89,6 +89,12 @@ Für einzelne positive Nachrichten:
 ```markdown
 # Fall - [Name]
 
+## Quellen / Links
+- [Originalmeldung / Primärquelle](https://...)
+- [Kontextquelle / zweite Einordnung](https://...)
+
+> Regel: Positive Nachrichten werden im Vault immer mit mindestens einem belastbaren Link gespeichert. Wenn der Link noch fehlt, bleibt der Zettel unfertig und bekommt eine Nachrecherche-Markierung.
+
 ## Sachverhalt
 Was ist konkret passiert?
 
@@ -112,6 +118,20 @@ Was wäre daran verallgemeinerbar?
 - [[Konzept - Positive Nachrichten als Krisenindikatoren]]
 - [[Konzept - Negative Dialektik als nüchterne Kenntnisnahme]]
 ```
+
+## Wochenformat: Heterotopiepodcast
+
+Am Ende der Woche eignet sich ein eigener **Heterotopiepodcast** als Verdichtung der positiven Nachrichten — nicht als Feelgood-Rückblick, sondern als ideologiekritischer Wochenkompass.
+
+### Formatidee
+- **Dauer:** ca. 8–15 Minuten Audio.
+- **Material:** 3–5 positive Nachrichten der Woche mit Links, plus 1–2 negative Gegenfolien aus Corporate Watch / Tageszetteln.
+- **Dramaturgie:** `Was wurde besser? → Welche Krise zeigt sich darin? → Welche Gegeninstitution wird sichtbar? → Wo droht Vereinnahmung? → Was wäre verallgemeinerbar?`
+- **Ton:** ruhig, nachdenklich, nicht newscasterhaft; eher gesprochenes Denken als Nachrichtenmoderation.
+- **Vault-Output:** zusätzlich zum Audio ein Wochenzettel `Heterotopiepodcast - KW XX YYYY.md` mit Quellenlinks, Fallzettel-Verweisen und offenen Anschlussfragen.
+
+### Quellenregel
+Jeder Good-News-Punkt braucht im Textzettel einen Link. Im Audio werden die Links nicht vorgelesen, sondern nur im begleitenden Markdown gesammelt.
 
 ## Verbindung Klimawandel / Krisenzusammenhang
 

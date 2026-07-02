@@ -95,6 +95,7 @@ Wichtig: Sie sind keine fertigen Utopien. Sie bleiben im beschädigten Ganzen un
 ## Nächste Extraktionen
 
 - [[Projekt - Positive Nachrichten als Heterotopienmaterial]] weiter ausbauen.
+- [[Projekt - Heterotopiepodcast]] als Wochenverdichtung aufbauen: Good-News-Fälle mit Links, negativer Gegenfolie und gesprochener ideologiekritischer Einordnung.
 - Aus jedem Good-News-Discord-Lauf einen Mini-Zettel erzeugen: `Fall - [Thema] als Heterotopienmöglichkeit`.
 - Corporate-Watch-Fälle als negative Gegenfolie verlinken: `Krise → Gegeninstitution → Grenze`.
 

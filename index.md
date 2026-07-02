@@ -63,6 +63,7 @@
 
 ## Corporate Watch
 - [[Projekt - Positive Nachrichten als Heterotopienmaterial]] — Good News + Corporate Watch als Materialpool für progressive Heterotopien
+- [[Projekt - Heterotopiepodcast]] — Wochenformat für eine gesprochene, quellenverlinkte Verdichtung positiver Nachrichten als Heterotopie-Fälle
 <!-- Corporate power, billionaire misconduct, regulatory capture -->
 
 ## ADHD-ND-Erkenntnisse

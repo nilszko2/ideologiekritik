@@ -43,3 +43,8 @@
 - Vier Positive-News-Fallzettel ausgebaut: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
 - Ergänzt: stärkere ideologiekritische Krisenlesart, Machtbegrenzung, Ambivalenz, Vault-Verbindungen und offene Anschlussfragen.
 - Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] und [[Projekt - Positive Nachrichten als Heterotopienmaterial]] mit präziseren Fallzusammenfassungen.
+
+## [2026-07-02] create | Heterotopiepodcast als Wochenformat skizziert
+- Angelegt: [[Projekt - Heterotopiepodcast]].
+- Quellenregel ergänzt: Positive Nachrichten brauchen künftig Links im begleitenden Zettel; Audio liest Links nicht vor.
+- Verknüpft mit [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] und [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
