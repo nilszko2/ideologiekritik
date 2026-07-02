@@ -32,11 +32,14 @@ Die Psychoanalyse als Gesellschaftstheorie fragt: Wie reproduzieren sich Herrsch
 - [[Konzept - Gesellschafts-Charakter (Fromm)]] – Die psychische Struktur, die eine Gesellschaft braucht
 - [[Konzept - Szenisches Verstehen (Lorenzer)]] – Tiefenhermeneutik: Was inszeniert sich in der Interaktion?
 
+<<<<<<< HEAD
 ## Gruppendynamik & politische Formation
 
 - [[Revolutionseskapismus und Anti-Kapitalistische Gruppentherapie]] — Bion (Grundannahmen-Gruppe) + Freud (sekundärer Krankheitsgewinn) + Winnicott (falsches Selbst) + Butler (Performativität) als Analyse linksradikaler Formationen; enthält das Meta-Dilemma 9.5/10 zum GSP-Wahrheitsanspruch
 - [[Debatte GSP - V16.1 Psychoanalytische Vertiefung]] — P1–P6: psychoanalytische Tiefenanalyse der GSP-Form (Rationalisierung, Charakterpanzer, Abjekt, Bion, Lacan, Winnicott)
 
+=======
+>>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 ## Kritische Psychologie
 
 - [[Person - Holzkamp, Klaus]] – Grundlegung der Psychologie, Subjektwissenschaft, Lern- und Handlungsfähigkeit

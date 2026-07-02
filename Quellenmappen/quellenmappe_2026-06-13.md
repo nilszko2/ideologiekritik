@@ -1,0 +1,48 @@
+---
+tags: [quellenmappe, tagespolitik, politwatch, gaza, ukraine, lobbyismus]
+date: 2026-06-13
+---
+# Quellenmappe – 2026-06-13
+
+## Kurzthese des Tages
+- **Sozialstaat wird über Kostenlogiken verteidigt oder ausgehöhlt:** Eingliederungshilfe, Abgeordnetenentschädigung und Gastronomie-Steuerpolitik zeigen, wie politisch über „Automatismen“, Entlastung und Sparlogik gestritten wird.
+- **Humanitäre Lage ist Infrastrukturpolitik:** Gaza, Ukraine und Sudan/East Africa zeigen Schutz nicht abstrakt, sondern als Wasser, Gesundheit, Zugang, Luftschutz, Finanzierung und Bewegungsfreiheit.
+- **Konzernmacht bleibt auch Verfahrensmacht:** Antitrust- und Regulierungsfälle drehen sich nicht nur um Bußgelder, sondern um Marktabschottung, Offenlegung, Beweiszugang und die Fähigkeit von Behörden, Regeln praktisch durchzusetzen.
+- **KI wird stärker geopolitische Infrastruktur:** Der Anthropic-Fall aus der Trefferlage zeigt: Modellzugang ist nicht nur Produktpolitik, sondern zunehmend Exportkontrolle, Sicherheitsordnung und Plattformabhängigkeit.
+
+## Quellen
+### Lokal & National Politwatch
+- [Keine Einschränkungen bei der Eingliederungshilfe geplant](https://www.bundestag.de/presse/hib/kurzmeldungen-1183710) — Deutscher Bundestag/hib, Trefferlage 13.06.2026. **Warum speichern:** Die Regierung sagt im Petitionskontext, der Bund-Länder-Kommunen-Dialog ziele „eindeutig nicht“ auf Leistungseinschränkungen; zugleich steht Kostendruck im Raum. **Frame/Lernmoment:** [[Eingliederungshilfe]] als Sozialstaats-Politwatch: Entscheidend ist, ob „Effizienz“ zu besserer Bedarfsgerechtigkeit oder verdeckter Kürzung wird.
+- [Abgeordnetenentschädigung steigt um 4,2 Prozent](https://www.bundestag.de/presse/hib/kurzmeldungen-1165658) — Deutscher Bundestag/hib, 2026. **Warum speichern:** Primärquelle zur automatischen Diätenanpassung: von 11.833,47 auf 12.330,48 Euro ab 1. Juli 2026, gekoppelt an den Nominallohnindex. **Frame/Lernmoment:** [[Parlamentsvertrauen]]: Automatismen können Entpolitisierung schaffen, wirken aber politisch in Zeiten von Sozialstaats-/Haushaltsdebatten besonders sichtbar.
+- [Umsatzsteuersenkung für Gastronomie zum 1. Januar 2026](https://www.bundestag.de/presse/hib/kurzmeldungen-1104876) — Deutscher Bundestag/hib, 2026. **Warum speichern:** Die Regierung verteidigt die 7-Prozent-Regel für Speisen und verweist darauf, dass eine unvollständige Weitergabe an Verbraucher*innen zielkonform sein könne, wenn die Angebotsseite gestärkt werden soll. **Frame/Lernmoment:** [[Subventionspolitik]] / [[Lobbyismus]]: Steuerentlastung ist Verteilungspolitik; Machtfrage ist, wer sie erhält, wer sie bezahlt und ob Preise tatsächlich sinken.
+
+### Gaza / Israel-Palästina
+- [Humanitarian Situation Report | 5 June 2026](https://www.ochaopt.org/content/humanitarian-situation-report-5-june-2026) — OCHA oPt, veröffentlicht 06.06.2026; heute weiterhin zentraler UN-Standanker. **Warum speichern:** OCHA dokumentiert hohe Gesundheitsrisiken durch Müll/Pestbefall, eingeschränkten Landfill-Zugang, Importrestriktionen für Sanitärgüter, Finanzierungslücken und blockierte/überlastete Übergänge. **Frame/Lernmoment:** [[Humanitärer Zugang]]: Gewalt wirkt nicht nur durch Bomben, sondern über Genehmigungen, Ersatzteile, Müllentsorgung, Wasserchemikalien und Grenzlogistik. **Neu daran:** Kein frischerer OCHA-Lagebericht in der heutigen knappen Trefferlage; diese Quelle bleibt der belastbare Standanker.
+- [occupied Palestinian territory](https://reliefweb.int/country/pse) — ReliefWeb, Stand 13.06.2026. **Warum speichern:** Aggregator für UNRWA/OCHA/oPt-Updates; zeigt u. a. UNRWA-Situation-Reports als laufende Dokumentationsspur. **Frame/Lernmoment:** [[ReliefWeb]] als Suchkarte, nicht Endbeleg: Einzelzahlen immer auf UNRWA/OCHA/OHCHR zurückführen.
+
+### Ukraine / Russland
+- [All reports – UN Human Rights Monitoring Mission in Ukraine](https://ukraine.ohchr.org/en/reports) — OHCHR/HRMMU Ukraine, Stand 13.06.2026. **Warum speichern:** Offizieller Report-Knoten für zivile Opfer- und Menschenrechtsberichte; die Trefferlage nennt für April 2026 mindestens 238 getötete und 1.404 verletzte Zivilist*innen. **Frame/Lernmoment:** [[Ziviler Schutz]]: Der Krieg wird hier nicht als Frontkarte, sondern als Schadensmuster gegen Menschen, Städte und Infrastruktur lesbar.
+- [Ukraine War Risks Spiralling Out of Control, Secretary-General Warns Security Council](https://press.un.org/en/2026/sgsm23151.doc.htm) — UN Press/Secretary-General, 2026. **Warum speichern:** Guter UN-Diplomatieanker: Guterres verweist auf mehr als 15.000 getötete Zivilist*innen seit Februar 2022 und fordert vollständigen, bedingungslosen Waffenstillstand. **Frame/Lernmoment:** [[UN-Sicherheitsrat]]: Sichtbarkeit und Rechtsrahmen existieren, aber Durchsetzung bleibt durch Machtpolitik und Vetostrukturen begrenzt.
+- [Four years since the full-scale invasion of Ukraine: Key facts and findings](https://reliefweb.int/report/ukraine/four-years-full-scale-invasion-ukraine-key-facts-and-findings-february-2026) — ReliefWeb/OHCHR-Kontext, Februar 2026. **Warum speichern:** Strukturquelle: über 15.000 getötete und über 41.000 verletzte Zivilist*innen, Millionen Vertriebene, systematische Schäden an ziviler Infrastruktur. **Frame/Lernmoment:** [[Infrastrukturkrieg]]: Langfristige zivile Schäden sind Teil der Kriegsbilanz, nicht bloße Nebenfolge.
+
+### Übersehene Konflikte & Menschenrechte
+- [Sudan Regional Refugee Response Plan 2026](https://reliefweb.int/report/sudan/sudan-regional-refugee-response-plan-2026) — ReliefWeb/UNHCR-OCHA-Kontext, 2026. **Warum speichern:** Sudan wird als größte Vertreibungs- und Schutzkrise gerahmt; grenzüberschreitender Handel, Lebensmittel-/Treibstoffpreise und Unterfinanzierung verschärfen Schutzrisiken. **Frame/Lernmoment:** [[Sudan]] / [[Vertreibung]]: Flucht ist nicht nur Bewegung, sondern regionale Ökonomie, Aufnahmegemeinden, Preise, Grenzregime und humanitäre Finanzierung.
+- [Eastern Africa: Humanitarian Snapshot (As of March 2026)](https://www.unocha.org/publications/report/sudan/eastern-africa-humanitarian-snapshot-march-2026) — OCHA, März 2026. **Warum speichern:** Ostafrika-Snapshot: 53,2 Mio. Menschen mit Hilfsbedarf, fast 17 Mio. Vertriebene, schwere Ernährungsunsicherheit und hohe Cholera-Belastung. **Frame/Lernmoment:** [[Unterberichtete Krisen]]: Regionale Snapshots helfen, Sudan, Somalia, Südsudan und Nachbarländer als zusammenhängende Schutz- und Finanzierungslandschaft zu lesen.
+- [Sahel Dashboard – Humanitarian Overview](https://reliefweb.int/report/burkina-faso/sahel-dashboard-humanitarian-overview-29-april-2026) — ReliefWeb/OCHA, 29.04.2026. **Warum speichern:** Sahel bleibt als Gewalt-, Klima- und Staatskrisenraum relevant; 24,4 Mio. Menschen benötigen 2026 humanitäre Hilfe. **Frame/Lernmoment:** [[Sahel]]: Nicht als „failed states“-Klischee speichern, sondern als Überlagerung von Militärregimen, jihadistischer Gewalt, Klimaschocks, Grenzpolitik und internationaler Sicherheitsagenda. **Neu daran:** Heute nicht als neue Story, sondern als Vergleichsanker zur Ostafrika/Sudan-Lage.
+
+### Corporate Power / Lobbyismus
+- [Pierre Cardin licensee loses court fight against $4.12 million EU antitrust fine](https://www.reuters.com/sustainability/boards-policy-regulation/pierre-cardin-licensee-loses-court-fight-against-412-million-eu-antitrust-fine-2026-05-06) — Reuters, 06.05.2026; heute in der Regulierungs-Trefferlage. **Warum speichern:** EU-Antitrust-Fall zu Lizenz-/Vertriebsbeschränkungen; kein Mega-Skandal, aber gutes Beispiel für Marktabschottung über Marken- und Lizenzarchitektur. **Frame/Lernmoment:** [[Antitrust]]: Konzernmacht entsteht auch dort, wo Verträge Wiederverkauf, territoriale Märkte oder Preis-/Vertriebsspielräume einhegen.
+- [UK’s Woodford business rejects allegations of regulatory breaches](https://www.reuters.com/legal/government/uks-woodford-business-rejects-allegations-regulatory-breaches-2026-06-09) — Reuters, 09.06.2026. **Warum speichern:** Finanzmarkt-/Regulierungsfall: Vorwürfe werden bestritten, also sauber als laufender Allegation-/Aufsichtsfall speichern. **Frame/Lernmoment:** [[Finanzaufsicht]]: Machtkritisch relevant ist weniger Moral über einzelne Manager, sondern ob Aufsicht, Offenlegung und Anleger*innenschutz nach Fonds-/Vermögensschäden greifen.
+
+### KI / Modelle
+- [Anthropic disables top AI models after US foreign access order](https://www.reuters.com/video/watch/idRW854213062026RP1) — Reuters Video, 12./13.06.2026 Trefferlage. **Warum speichern:** Substanzielles KI-Infrastruktur-Signal: Laut Reuters soll Anthropic fortgeschrittene Modelle nach einer US-Anordnung für ausländische Zugriffe deaktivieren. **Frame/Lernmoment:** [[AI Geopolitics]] / [[Export Controls]]: Modellzugang wird Teil von Sicherheits- und Außenwirtschaftspolitik; „KI-Produkt“ ist zugleich strategische Infrastruktur. **Quellenkritik:** Reuters-Video/kurzer Treffer, für Details später gegen Anthropic-/US-Regierungsdokumente prüfen.
+
+## Good News / konstruktive Gegenmacht
+- Good News: heute nichts Neues, das nicht schon dran war.
+
+## Offene Fragen für später
+- [[Eingliederungshilfe]]: Welche Reformbegriffe bedeuten echte Teilhabe-Verbesserung, welche sind Sparsprache?
+- [[Subventionspolitik]]: Wie lassen sich Gastronomie-Steuersenkung, Industriehilfen und Sozialkürzungsdebatten als Verteilungskonflikt vergleichen?
+- [[Humanitärer Zugang]]: Welche Gaza-Hilfsgüter werden über „Dual Use“-Logik, Grenzübergänge und Finanzierung praktisch blockiert?
+- [[UN-Sicherheitsrat]]: Wie unterscheiden sich Sichtbarkeit, Resolutionen und tatsächliche Durchsetzung bei Ukraine und Gaza?
+- [[AI Geopolitics]]: Wird Modellzugang künftig ähnlich reguliert wie Chips, Kryptographie oder Dual-Use-Güter?

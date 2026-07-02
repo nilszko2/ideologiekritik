@@ -6,6 +6,16 @@ Dieses Vault ist ein **LLM-gepflegtes Wissens-Wiki** für ideologiekritische The
 
 **Nutzer:** Koordinator an einer Hochschule für einen Studiengang der Sozialwissenschaften. Theoretisch versiert (MA Organisationstheorie, Adorno/Luhmann-Kenner), sucht systematische Vertiefung der ideologiekritischen Tradition.
 
+<<<<<<< HEAD
+=======
+**GitHub-Sync:** Dieses Vault ist über `git push/pull` mit dem Obsidian Vault des Nutzers verbunden.
+- GitHub Repo: `https://github.com/nilszko2/ideologiekritik.git`
+- Lokaler Mirror: `/opt/data/ideologiekritik-github/`
+- Nutzers Obsidian Vault: `/opt/data/ideologiekritik-vault/` (lokal, via `cp -r` + `git push` synchronisiert)
+- Auto-Push alle 6 Stunden via Cronjob `Ideologiekritik-Vault Auto-Push`
+- Abendbriefings schreiben direkt ins GitHub Repo (`00_Inbox/`) und pushen automatisch
+
+>>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 **Sechs Felder:**
 - **Frankfurter Schule** (Horkheimer, Adorno, Marcuse, Benjamin, Habermas, Negt/Kluge)
 - **Klassischer Marxismus** (Marx, Engels, Luxemburg, Gramsci, Lukács)
@@ -125,6 +135,7 @@ Spezial-Workflow (s.o.). Ein Film = ein Analyse-Zettel + extrahierte Konzept-Zet
 
 ### 4. Pflegen (Lint)
 
+<<<<<<< HEAD
 Wie Kanonwissen: Anti-Stub, Dashboard prüfen, Querverweise, Lücken, Log. Plus: Podcast nach jeder Session neu bauen (siehe Abschnitt „Podcast-Regel" unten).
 
 ### Podcast-Regel (verpflichtend, gilt vault-übergreifend einheitlich)
@@ -151,6 +162,9 @@ Der Session-Podcast folgt der **Rubriken-Struktur des Exegese-Protokolls V17.0 m
 **Stil:** Reintext, Speechify-tauglich. Rubriken klar angekündigt. Originalzitate explizit ausgesprochen. Herkunfts-Markierungen ausgesprochen.
 
 **Länge:** 45–70 Minuten. **Datei-Ort:** `90_System/convert/podcast-YYYY-MM-DD.txt`.
+=======
+Wie Kanonwissen: Anti-Stub, Dashboard prüfen, Querverweise, Lücken, Log.
+>>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 
 ---
 
