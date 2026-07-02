@@ -4,17 +4,6 @@ typ: system
 
 # Vault-Protokoll
 
-## [2026-07-01] ingest | Abendpodcast-Quellenmappe — Regierungstechnologie, Militarisierung, KI
-
-Abendpodcast vom 1. Juli mit Recherche zu: Grundsicherungsgeld-Reform, Merz/NATO-Besuch, Zolldeal EU/USA, KI-Regulierung. Zwei Markdown-Dateien:
-- `00_Inbox/Abendpodcast - 2026-07-01.md` — ausführliche Analyse mit Wikilinks
-- `Quellenmappen/quellenmappe_2026-07-01.md` — Kurzform Quellenmappe
-- Audio: `/opt/data/audio_cache/abendpodcast_2026-07-01.ogg` (ca. 6 min, Sprachstil)
-- Zentral: Synchrone Verdichtung von Kontrolle — innen (Aktivierung), außen (Militarisierung), technisch (Compliance).
-- Neue Wikilinks: [[Regierungstechnologie]], [[Gouvernementalität]], [[Neoliberalismus]], [[Militarismus]], [[Digitale Macht]], [[hedgemie]], [[hegemoniale Ordnung]]
-
----
-
 ## [2026-04-16] exegese | Yugopnik + Tito's Left Lung — 7 YouTube-Exegesen
 
 Neue Quellengattung im Vault: **YouTube Video Essays** — ideologiekritische Analyse von LeftTube-Content. 7 Literaturnotizen + 7 Exegesen.
