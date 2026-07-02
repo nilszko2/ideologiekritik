@@ -30,3 +30,4 @@ node_modules/
 .wrangler/
 .dev.vars
 .claude/ 
+.claude/ 
