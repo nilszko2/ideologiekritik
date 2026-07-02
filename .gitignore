@@ -29,3 +29,4 @@ desktop.ini
 node_modules/
 .wrangler/
 .dev.vars
+.claude/ 
