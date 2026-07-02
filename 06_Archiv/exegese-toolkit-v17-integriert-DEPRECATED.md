@@ -1,10 +1,16 @@
 ---
-tags: [system, protokoll]
+tags: [system, protokoll, archiv, deprecated]
 typ: system
-version: "17.0"
+version: "17.0-integriert"
+status: archiviert
 ersetzt: "exegese-toolkit.md (V16.2) + implizites Close-Reading-Verfahren"
 datum: 2026-04-16
+archiviert: 2026-05-14
+abgeloest-durch: "[[exegese-toolkit]] (V17.0 / Konsolidierte Marker-Systematik)"
 ---
+
+> [!warning] Archiviert
+> Diese „integrierte" Fassung von V17.0 (Verschmelzung V16.2 + Close Reading mit drei Varianten A/B/C) ist seit dem 2026-05-14 nicht mehr in Gebrauch. Aktuell gilt [[exegese-toolkit]] (V17.0 / Konsolidierte Marker-Systematik) — eine schlankere, marker-zentrierte Evolutionslinie ohne A/B/C-Varianten. Die Datei bleibt zu Dokumentationszwecken hier.
 
 # Integriertes Exegese-Protokoll V17.0
 

@@ -33,6 +33,14 @@ Zeitgenössische Kritische Theorie nach der Frankfurter Schule — die Generatio
 - [[Konzept - Agonistische Demokratie (Mouffe)]] – Konflikt als Lebensform der Demokratie
 - [[Konzept - Plattformkapitalismus (Srnicek)]] – Die neue Extraktionslogik
 
+## Anwendungs-Zettel zur Plattform-Linken
+
+- [[Plattformkapitalismus als unreflektierte Produktionsbedingung]] – Algorithmus-Ebene
+- [[Digitale Öffentlichkeit als Schulhof-Modus]] – Identitätsarbeit-Ebene
+- [[Cognitive Offloading als Schulungsform]] – kognitive Auslagerung
+- [[Linke Plattform-Öffentlichkeit als präfigurative Code-Maschine]] – semantische Verschleißform theoretischer Begriffe in LeftTube/Twitch
+- [[Konzept - Präfigurative Codes]] – ideologiekritischer Eigenbegriff (theoretische Grundlage)
+
 ## Verbindungen
 
 - [[MOC - Frankfurter Schule]] – Vorgängergeneration

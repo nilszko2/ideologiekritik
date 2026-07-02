@@ -125,7 +125,32 @@ Spezial-Workflow (s.o.). Ein Film = ein Analyse-Zettel + extrahierte Konzept-Zet
 
 ### 4. Pflegen (Lint)
 
-Wie Kanonwissen: Anti-Stub, Dashboard prüfen, Querverweise, Lücken, Log.
+Wie Kanonwissen: Anti-Stub, Dashboard prüfen, Querverweise, Lücken, Log. Plus: Podcast nach jeder Session neu bauen (siehe Abschnitt „Podcast-Regel" unten).
+
+### Podcast-Regel (verpflichtend, gilt vault-übergreifend einheitlich)
+
+Der Session-Podcast folgt der **Rubriken-Struktur des Exegese-Protokolls V17.0 mit voller analytischer Schärfe**, aber die Rubriken werden **komparativ aneinander angeglichen** gefüllt. Maßstab ist die Präzision einer einzelnen Exegese — mit Originalzitaten, Doppel-Beleg (Kernaussage vereinfacht + Originalzitat + Übersetzung + Quelle mit Seitenangabe), Herkunfts-Markierungen (direkt im Text formuliert vs. rekonstruktiv hergestellt vs. hypothetisch vs. komparative Ergänzung nicht im Quelltext), rhetorischer Tiefenanalyse, Schematischer Verortung, Anwendungs-Toolkit mit Szenario-Analyse-Grenzfall. **Nicht** narrativ zutode geglättet. **Nicht** prosaisch-erzählerisch. Wissenschaftlich dicht.
+
+**Struktur (vierzehn Durchgänge in einer Reihe, nicht Text-Blöcke):**
+
+1. Einleitung — welche Texte/Reden, welche Leitfrage.
+2. Komparatives Glossar — dreigeteilt: Fachbegriffe, Neologismen, Stolpersteine.
+3. Intention im Vergleich plus rhetorische Eröffnungsgesten.
+4. Denkbewegung der Session.
+5. Argumentations-Anatomie komparativ — 5–8 Thesen mit Doppel-Beleg + Herkunfts-Markierung.
+6. Auffällige Auslassungen mit strategischer Motivation.
+7. Grenzfälle komparativ — Theorie + Anwendung.
+8. Rhetorische Tiefenanalyse — 2–3 Schlüsselzitate, jeweils mit ideologiekritischer Funktionsanalyse: welchen sozialen Ort nimmt die Rede ein, welche Herrschaftsverhältnisse legitimiert sie, welche Projektions- und Verleugnungsfiguren setzt sie ein.
+9. Schematische Verortung — intern + ideengeschichtlich.
+10. Aktualitätsbewertung.
+11. Anwendungs-Toolkit — integriertes Szenario, Grenzfall, Übersetzungs-Beispiel für ein Kolleg:innen-Gespräch.
+12. Weiterführende Ressourcen — 2–3 gezielt.
+13. Offene Fragen — 3–6.
+14. Empfehlung für die nächste Session.
+
+**Stil:** Reintext, Speechify-tauglich. Rubriken klar angekündigt. Originalzitate explizit ausgesprochen. Herkunfts-Markierungen ausgesprochen.
+
+**Länge:** 45–70 Minuten. **Datei-Ort:** `90_System/convert/podcast-YYYY-MM-DD.txt`.
 
 ---
 

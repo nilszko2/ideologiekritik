@@ -36,6 +36,7 @@ Die Frankfurter Schule (Kritische Theorie im engeren Sinn) verbindet Marx, Freud
 - [[Konzept - Autoritärer Charakter]] – Fromm/Adorno: Psychische Struktur der Unterwerfung
 - [[Konzept - Halbbildung (Adorno)]] – (auch in Kanonwissen)
 - [[Konzept - Jargon der Eigentlichkeit]] – (auch in Kanonwissen)
+- [[Konzept - Präfigurative Codes]] – Eigenbegriff: operative Form der Halbbildung in Gruppen; Codes als Argumentersatz
 - [[Konzept - Erfahrung vs. Erlebnis (Benjamin)]] – Verarmung der Erfahrung in der Moderne
 - [[Konzept - Aura (Benjamin)]] – Das Kunstwerk im Zeitalter seiner Reproduzierbarkeit
 - [[Konzept - Eindimensionalität (Marcuse)]] – Gesellschaft ohne Opposition
