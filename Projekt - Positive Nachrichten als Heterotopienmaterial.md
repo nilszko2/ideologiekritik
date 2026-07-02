@@ -133,3 +133,12 @@ Aus den letzten 20 Positive-News-Läufen und 10 Corporate-Watch-Läufen automati
 - [[Konzept - Negative Dialektik als nüchterne Kenntnisnahme]]
 - [[Konzept - Regulatory Capture]]
 - [[Konzept - Rüstungsökonomie]]
+
+## Begonnene Fallzettel
+
+- [[Fall - EU-Badegewässer als ökologische Heterotopie]]
+- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]]
+- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]]
+- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]]
+
+Nächster Schritt: Weitere Good-News-Läufe nach demselben Raster auswerten und jeweils mit einer negativen Gegenfolie aus Corporate Watch oder Tageszetteln verbinden.

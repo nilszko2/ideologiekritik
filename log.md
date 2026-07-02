@@ -29,3 +29,9 @@
 - update 2026-06-30: Abendpodcast/Quellenmappe erstellt
 
 - 2026-07-01 update: Heterotopienmöglichkeiten-Strang angelegt: MOC, Konzept Heterotopie, Negative Dialektik als nüchterne Kenntnisnahme, Positive Nachrichten als Krisenindikatoren, Projekt Positive Nachrichten als Heterotopienmaterial.
+## [2026-07-02] update | Heterotopien-Strang mit Positive-News-Fallzetteln verbunden
+- GitHub-Stand der letzten Tage gepullt.
+- Erstellt: [[Tageszettel - 2026-07-01]] als negative Gegenfolie zu Regierungstechnologie/Kontrollverdichtung.
+- Erstellt: vier Fallzettel aus dem Good-News-Material: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
+- Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]], [[Konzept - Positive Nachrichten als Krisenindikatoren]], [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
+- Anschlussverknüpfungen ergänzt in: [[Konzept - Präfigurative Codes]], [[Linke Plattform-Öffentlichkeit als präfigurative Code-Maschine]], [[Plattformkapitalismus als unreflektierte Produktionsbedingung]], [[Cognitive Offloading als Schulungsform]].

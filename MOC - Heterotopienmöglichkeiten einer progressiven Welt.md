@@ -105,3 +105,19 @@ Wichtig: Sie sind keine fertigen Utopien. Sie bleiben im beschädigten Ganzen un
 - [[MOC - Digitale Macht & KI]]
 - [[MOC - Rüstungsökonomie]]
 - [[MOC - Gaza-Blockade & Nahost]]
+
+## Startknoten: positive Nachrichten als Anfangsmaterial
+
+Der Heterotopien-Strang beginnt nicht mit großen Utopieentwürfen, sondern mit kleinen positiven Nachrichten, die als **Krisenindikatoren** gelesen werden. Erste Fallzettel:
+
+- [[Fall - EU-Badegewässer als ökologische Heterotopie]] — Gemeingüter gegen ökologische Externalisierung.
+- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]] — Care und Körper gegen Vereins-/Vertragsmacht.
+- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] — öffentliche Daten gegen Marktasymmetrie.
+- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]] — materielle Anerkennung gegen koloniale Entlastungserzählung.
+
+Diese Fälle sind bewusst klein gehalten: Sie sind keine Versöhnung, sondern konkrete Stellen, an denen andere Logiken praktisch werden.
+
+## Negative Gegenfolie: 1. Juli 2026
+
+- [[Tageszettel - 2026-07-01]] bildet die aktuelle Gegenfolie: Grundsicherungsgeld, NATO-Choreografie, Zolldeal und KI-Compliance zeigen eine gleichzeitige Verdichtung von Aktivierung, Militarisierung und regulatorischer Kontrolle.
+- Dadurch wird die Prüffrage für positive Nachrichten schärfer: Eine Good News zählt hier nur, wenn sie eine reale Gegeninstitution gegen eine solche Kontrolllogik sichtbar macht.

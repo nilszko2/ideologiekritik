@@ -88,3 +88,9 @@ Hypothese: Radikale Kritik (Systemfrage, langsame Analyse, unbequeme Differenzie
 - [[Debatte GSP - V14 Diskurs und Organisationstheorie]] — D8-Argument
 - [[Digitale Öffentlichkeit als Schulhof-Modus]]
 - [[Cognitive Offloading als Schulungsform]]
+
+## Anschluss an Heterotopien
+
+Der Heterotopien-Strang muss Plattformkapitalismus als Gegenfolie mitführen. Positive Nachrichten werden schnell zu Feelgood-Content, wenn sie algorithmisch nur Engagement, Entlastung oder Identitätsbestätigung liefern. Als [[Konzept - Positive Nachrichten als Krisenindikatoren]] sind sie nur dann brauchbar, wenn sie auf reale Gegeninstitutionen verweisen, die nicht vollständig in Plattformlogik aufgehen.
+
+Möglicher Fallzettel-Anschluss: öffentliche Dateninfrastrukturen wie [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] zeigen eine ambivalente Gegenform — Daten werden öffentlich nutzbar, können aber zugleich in Responsibilisierung und Plattformisierung kippen.

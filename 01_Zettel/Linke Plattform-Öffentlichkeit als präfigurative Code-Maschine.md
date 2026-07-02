@@ -177,3 +177,9 @@ Die produktive Frage ist dann: Was unterscheidet die Yugopnik- und Tito-Produkti
 - Lewis, R. (2018). *Alternative Influence: Broadcasting the Reactionary Right on YouTube.* Data & Society Report.
 - Phillips, W. / Milner, R. (2017). *The Ambivalent Internet.* Polity.
 - Vault: [[Plattformkapitalismus als unreflektierte Produktionsbedingung]] · [[Digitale Öffentlichkeit als Schulhof-Modus]] · [[Cognitive Offloading als Schulungsform]] · [[Konzept - Präfigurative Codes]]
+
+## Anschluss an Heterotopien
+
+Für [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] ist dieser Zettel die Warnung vor einem falschen positiven Anfang: Eine progressive Heterotopie darf nicht bloß ein linker Plattform-Code sein — „Praxis“, „Mutual Aid“, „Community“, „Transformationsraum“ — sondern muss eine andere Logik tatsächlich organisieren. Die Frage lautet daher: Welche Formate entziehen sich der Code-Maschine praktisch, und welche reproduzieren nur linke Zugehörigkeitssignale?
+
+Positive Nachrichten werden in diesem Sinn nicht als Content-Stoff, sondern als Materialprüfung gelesen: Gibt es eine institutionelle Gegenform, oder nur ein affektives Erkennungszeichen?

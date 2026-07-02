@@ -104,3 +104,9 @@ python "90_System/Tools/paper-discovery.py" \
 - [[Debatte GSP - V14 Diskurs und Organisationstheorie]] — S7-Argument
 - [[Digitale Öffentlichkeit als Schulhof-Modus]]
 - [[Plattformkapitalismus als unreflektierte Produktionsbedingung]]
+
+## Anschluss an Heterotopien
+
+Heterotopien können als Gegenform zu sozialem Cognitive Offloading gelesen werden, wenn sie Urteilskraft nicht an Autorität, Gruppe oder System auslagern, sondern Handlungsspielräume praktisch erweitern. Gute Nachrichten sind darum nur dann interessant, wenn sie nicht bloß stellvertretende Hoffnung liefern, sondern Menschen in eine andere Praxis der Prüfung, Beteiligung oder Absicherung bringen.
+
+Beispiel: [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] kann Offloading ambivalent verschieben — Preiswissen wird nicht mehr individuell zusammengesucht, sondern öffentlich bereitgestellt. Kritisch bleibt die Frage, ob daraus kollektive Regulierung entsteht oder nur effizientere Konsument:innen-Verantwortung.

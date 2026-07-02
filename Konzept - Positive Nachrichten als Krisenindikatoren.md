@@ -109,3 +109,12 @@ Diese positiven Fälle gewinnen Schärfe, wenn sie gegen Corporate-Watch-Materia
 - [[Konzept - Negative Dialektik als nüchterne Kenntnisnahme]]
 - [[Konzept - Regulatory Capture]]
 - [[Konzept - Rüstungsökonomie]]
+
+## Erste Fallzettel
+
+- [[Fall - EU-Badegewässer als ökologische Heterotopie]]
+- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]]
+- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]]
+- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]]
+
+Diese Fallzettel operationalisieren das Schema `Krise → Gegenform → Machtbegrenzung → Ambivalenz → Heterotopienmöglichkeit`.

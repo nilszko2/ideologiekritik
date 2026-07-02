@@ -148,3 +148,9 @@ Die Verknüpfung mit [[Konzept - Halbbildung (Adorno)|Adornos Halbbildung]] ist 
 - Bernstein, B. (1971). *Class, Codes and Control.* Routledge.
 - Hall, S. (1973). *Encoding and Decoding in the Television Discourse.* CCCS Stencilled Paper 7.
 - Boltanski, L. / Thévenot, L. (1991). *De la justification. Les économies de la grandeur.* Gallimard.
+
+### Anschluss an Heterotopien
+
+Der Heterotopien-Strang ist gegen präfigurative Codes besonders anfällig: „positive Nachricht“, „Hoffnung“, „Transformation“ oder „Resilienz“ können selbst zu Erkennungscodes werden, wenn sie das Argument ersetzen. Deshalb braucht [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] das Prüfschema aus [[Konzept - Positive Nachrichten als Krisenindikatoren]]: Nicht der gute Ton zählt, sondern die nachweisbare Gegeninstitution.
+
+Umgekehrt sind gelungene Heterotopien auch Anti-Code-Räume: Sie zwingen Begriffe wie Schutz, Gemeingut, Care oder Transparenz in praktische Form. Dort wird sichtbar, ob ein Begriff nur Signal ist oder institutionell trägt.

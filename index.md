@@ -1,7 +1,7 @@
 # Ideologiekritik-Vault — Index
 
 > Content catalog. Read this first to find relevant pages.
-> Last updated: 2026-06-29 | Total pages: ~240
+> Last updated: 2026-07-02 | Total pages: ~246
 > Obsidian Vault: `/opt/data/ideologiekritik-vault/` (flache Struktur, alle Dateien direkt im Root)
 
 ## 01_Zettel — Atomare Notizen (18 neu, Juni 2026)
@@ -19,7 +19,14 @@
 - [[Konzept - KI-Sicherheit]] — KI-Modelle als staatliche Cyber-Architektur
 - [[Konzept - Digitaler Euro]] — Programmierbare Zahlungen als Überwachung
 
-### Tageszettel (19.-28.06.2026)
+
+### Fallzettel — Heterotopienmöglichkeiten
+- [[Fall - EU-Badegewässer als ökologische Heterotopie]] — öffentliche Umweltregulierung als Schutz eines Gemeinguts
+- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]] — Care und Arbeitsschutz gegen Vereinsmacht
+- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] — öffentliche Daten gegen Marktasymmetrie
+- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]] — materielle Anerkennung kolonialer Gewalt
+
+### Tageszettel (19.06.-01.07.2026)
 - [[Tageszettel - 2026-06-19]] — Parlamentsagenda ist Machtagenda
 - [[Tageszettel - 2026-06-20]] — Zugang ist Macht
 - [[Tageszettel - 2026-06-21]] — Waffenruhe ist kein Frieden
@@ -30,6 +37,7 @@
 - [[Tageszettel - 2026-06-26]] — Demokratie als Verteilung von Schutz
 - [[Tageszettel - 2026-06-27]] — Kriegsökonomie als Infrastrukturkampf
 - [[Tageszettel - 2026-06-28]] — Infrastrukturpolitik und Regulierung
+- [[Tageszettel - 2026-07-01]] — Regierungstechnologie als Verdichtung von Aktivierung, Militarisierung und KI-Compliance
 
 ## 03_MOCs — Maps of Content (4 neu, Juni 2026)
 - [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] — Positive Nachrichten + Corporate Watch als dialektisches Material progressiver Gegenformen
