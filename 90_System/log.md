@@ -4,7 +4,6 @@ typ: system
 
 # Vault-Protokoll
 
-<<<<<<< HEAD
 ## [2026-06-29] ingest | Al Jazeera Head to Head — Krah (AFD) Interview
 
 Transkript aufgenommen und ideologiekritisch verarbeitet. Drei Dateien angelegt: Literaturnotiz `@Hassan_2026_HeadToHead-Krah`, Analyse-Zettel `Analyse - Krah-Interview Al Jazeera (2026)`, Konzept-Zettel `Konzept - Remigration als politische Semantik`. Fokus: semantische Doppelkodierung (Remigration), Institutionendelegitimierung, ethnische Volksgemeinschaftslogik im zivilen Gewand.
@@ -428,8 +427,6 @@ Die frühere pauschale Zitatpflicht („Doppel-Beleg") wird ersetzt durch eine *
 ### Rückwärts-Kompatibilität
 Bestehende Exegesen (V16.2 + integriertes V17.0) bleiben gültig. Die Marker `[direkt]` / `[rekonstruiert]` / `[interpretativ]` / `[komparativ]` sind in beiden Generationen identisch.
 
-=======
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 ## [2026-04-16] exegese | Yugopnik + Tito's Left Lung — 7 YouTube-Exegesen
 
 Neue Quellengattung im Vault: **YouTube Video Essays** — ideologiekritische Analyse von LeftTube-Content. 7 Literaturnotizen + 7 Exegesen.

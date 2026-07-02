@@ -1,28 +1,22 @@
 ---
 tags: [system, landkarte, protokoll]
 typ: system
-<<<<<<< HEAD
 aktualisiert: 2026-05-14
 standard-protokoll: "V17.0 / Konsolidierte Marker-Systematik"
 vault-spezifisches-spezialprotokoll: "ideologiekritik + methodenlehrbuch + em-fallstudie"
-=======
 aktualisiert: 2026-04-16
 standard-protokoll: "V17.0"
 vault-spezifisches-spezialprotokoll: "methodenlehrbuch + em-fallstudie"
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 ---
 
 # Exegese-Landkarte
 
 **Wegweiser durch die verfügbaren Exegese-Protokolle dieses Vaults.**
 
-<<<<<<< HEAD
 Seit dem **2026-05-14** gilt eine **konsolidierte Protokollarchitektur**: Eine kanonische generische Fassung (V17.0 / Konsolidierte Marker-Systematik) plus drei feldspezifische Spezialprotokolle. Die früheren Fassungen (V16.2 sowie das integrierte V17.0 mit drei Varianten A/B/C) sind archiviert.
-=======
 Der Vault hat zwei Generationen von Protokollen:
 - **V16.2** (bewährt, bis 2026-04-16 Standard) — bleibt *parallel verfügbar* als Testumgebung, bis V17.0 genügend Exegesen durchlaufen hat.
 - **V17.0** (neuer Standard seit 2026-04-16) — integriert V16.2 und Close Reading; drei Varianten (A/B/C) + Spezialprotokolle.
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 
 ## Welches Protokoll wählen?
 
@@ -35,13 +29,10 @@ Politische Rede, Tweet, Leit-      → ideologiekritik (Spezial)
 artikel, Diskurs mit ideolog.        ** Haupt-Protokoll in diesem Vault **
 Gehalt
 ────────────────────────────────────────────────────────
-<<<<<<< HEAD
 Wissenschaftliche Analyse von      → V17.0 (generisch)
 Ideologie (z.B. Barthes,
-=======
 Wissenschaftliche Analyse von      → V17.0-B (monolithisch)
 Ideologie (z.B. Barthes,             mit Situierung + Aktualität
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 Althusser, Butler über Gender)
 ────────────────────────────────────────────────────────
 Methodologisches Lehrbuch          → methodenlehrbuch (Spezial)
@@ -50,7 +41,6 @@ Methodologisches Lehrbuch          → methodenlehrbuch (Spezial)
 Ethnomethodologische Fallstudie    → em-fallstudie (Spezial)
 (selten in diesem Vault)
 ────────────────────────────────────────────────────────
-<<<<<<< HEAD
 Buch mit klarer Kapitelstruktur    → V17.0 (generisch, iterativ)
 (keine obigen Spezialtypen)
 ────────────────────────────────────────────────────────
@@ -61,7 +51,6 @@ Sammelband, Handbuch, Reader       → V17.0 (generisch, ggf. mit
                                      Dreierblöcken bei kurzen
                                      Beiträgen)
 ────────────────────────────────────────────────────────
-=======
 Buch mit klarer Kapitelstruktur    → V17.0 Variante A (iterativ)
 (keine obigen Spezialtypen)
 ────────────────────────────────────────────────────────
@@ -72,7 +61,6 @@ Sammelband, Handbuch, Reader       → V17.0 Variante C (Überblick)
 ────────────────────────────────────────────────────────
 Testphase / Vergleich mit neuem    → V16.2 (alt, iterativ, rein)
 Verfahren                            
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 ```
 
 ### 2. Nach welchem Track exegieren?
@@ -83,7 +71,6 @@ Verfahren
 
 ## Verfügbare Protokolle
 
-<<<<<<< HEAD
 ### V17.0 (Konsolidierte Marker-Systematik) — generisches Haupt-Toolkit
 
 → [[exegese-toolkit]]
@@ -96,7 +83,6 @@ Verfahren
 - **Meta-Reflexion verpflichtend** am Block-Ende.
 
 **Anpassung statt Varianten:** Die früheren Varianten A/B/C wurden zugunsten einer einzigen Architektur mit expliziter Lastregel aufgegeben. Texttyp-Spezifika werden durch Block-Granularität und Materialprüfung geregelt, nicht durch parallele Verfahrensvarianten.
-=======
 ### V17.0 Haupt-Toolkit
 
 → [[exegese-toolkit-v17]]
@@ -111,7 +97,6 @@ Verfahren
 - Hermeneutische Charity (von Close Reading)
 - Kontextualisierung, Hypothetik
 - **Aktualitätsbewertung** (neu, verpflichtend)
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 
 ### Spezialprotokolle
 
@@ -121,7 +106,6 @@ Verfahren
 
 → [[exegese-protokoll-em-fallstudie]] — für ethnomethodologische Fallstudien. In diesem Vault selten primär relevant.
 
-<<<<<<< HEAD
 ### Archivierte Vorgänger
 
 → [[exegese-toolkit-v16.2-DEPRECATED]] — V16.2 (iteratives Analyse-Toolkit mit Doppel-Beleg). Verlangte pauschale Zitatpflicht; produzierte unter Last fabrizierte Zitate. Archiviert 2026-05-14.
@@ -139,7 +123,6 @@ verfahren: v17.0
 # oder: v17.0-spezial-ideologiekritik
 # oder: v17.0-spezial-methodenlehrbuch
 # oder: v17.0-spezial-em-fallstudie
-=======
 ### Archivprotokoll (parallel verfügbar)
 
 → [[exegese-toolkit]] — V16.2 (iteratives Analyse-Toolkit mit Doppel-Beleg). Unverändert gelassen, bleibt für Test-/Vergleichsexegesen nutzbar. *Hat keine Aktualitätsbewertung.*
@@ -156,12 +139,10 @@ verfahren: v17.0-B
 # oder: v17.0-spezial-methodenlehrbuch
 # oder: v17.0-spezial-em-fallstudie
 # oder: v16.2  (nur wenn bewusste Testphase)
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 ```
 
 ### Für bestehende Exegesen (Rückwärts-Kompatibilität)
 
-<<<<<<< HEAD
 - Die bestehenden V16.2-Exegesen (Flick 1–4) und die Close-Reading-Exegesen (W/Z 1987, Garfinkel 1967, Garfinkel 1986) bleiben gültig.
 - Exegesen, die mit dem integrierten V17.0 (Varianten A/B/C) erstellt wurden, bleiben gültig. Ihre Markersystematik ist mit der konsolidierten Fassung kompatibel (die Marker `[direkt]`, `[rekonstruiert]`, `[interpretativ]`, `[komparativ]` bleiben identisch).
 
@@ -169,7 +150,6 @@ verfahren: v17.0-B
 
 - **Marker-Pflicht** in den Feldern 2.4, 2.5, 2.6: Jede Analyse-Aussage erhält einen Konfidenz-Marker.
 - **Anti-Fabrikations-Direktive durch Marker statt Direktiven-Block**: Der frühere Block „Anti-Illusions-Direktive" ist in die Marker-Tafel überführt — sie ist *die* Anti-Illusions-Logik.
-=======
 Die bestehenden V16.2-Exegesen (Flick 1–4) und die Close-Reading-Exegesen (W/Z 1987, Garfinkel 1967, Garfinkel 1986) bleiben gültig. Nachträgliche Aktualitätsbewertungen wurden ergänzt.
 
 ### Für die Testphase V16.2 ↔ V17.0
@@ -184,23 +164,19 @@ Solange V17.0 noch nicht ausreichend erprobt ist:
 
 - **AKTUALITÄTS-DIREKTIVE** ist verpflichtend. Drei Fragen: (1) Was gilt heute noch? (2) Was ist überholt/revidiert? (3) Wie heute zu lesen?
 - **Spezialprotokolle bei passenden Texttypen**: Nicht jeder Text bekommt das generische V17.0 — wenn eine Spezialisierung existiert, wird sie benutzt.
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 - **Track-Kennzeichnung** im Frontmatter: `track: quali / paper / gemeinsam`.
 - **Dateinamen-Konvention**: `Exegese - [Werk] - Block [N].md` für Podcast-Integration.
 
 ## Querverweise
 
-<<<<<<< HEAD
 - [[exegese-toolkit]] — Generisches Haupt-Toolkit (V17.0 / Konsolidierte Marker-Systematik)
 - [[exegese-protokoll-ideologiekritik]]
 - [[exegese-protokoll-em-fallstudie]]
 - [[exegese-protokoll-methodenlehrbuch]]
 - [[exegese-toolkit-v16.2-DEPRECATED]] — Archiv
 - [[exegese-toolkit-v17-integriert-DEPRECATED]] — Archiv
-=======
 - [[exegese-toolkit-v17]] — Haupttoolkit
 - [[exegese-protokoll-em-fallstudie]]
 - [[exegese-protokoll-methodenlehrbuch]]
 - [[exegese-toolkit]] — V16.2 (Archiv)
->>>>>>> a72569c48ba88ac0a4e9983463cd00c9c122fead
 - [[Dashboard - Exegese-Fortschritt]]

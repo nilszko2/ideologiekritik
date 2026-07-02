@@ -35,3 +35,6 @@
 - Erstellt: vier Fallzettel aus dem Good-News-Material: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
 - Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]], [[Konzept - Positive Nachrichten als Krisenindikatoren]], [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
 - Anschlussverknüpfungen ergänzt in: [[Konzept - Präfigurative Codes]], [[Linke Plattform-Öffentlichkeit als präfigurative Code-Maschine]], [[Plattformkapitalismus als unreflektierte Produktionsbedingung]], [[Cognitive Offloading als Schulungsform]].
+## [2026-07-02] fix | Merge-Marker aus Obsidian-Vault bereinigt
+- Entfernt verbliebene Git-Konfliktmarker aus Markdown-Dateien nach der lokalen Obsidian-Git-Historienreparatur.
+- Inhaltliche Blöcke wurden beibehalten; nur technische Marker entfernt.
