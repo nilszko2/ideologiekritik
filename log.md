@@ -38,3 +38,8 @@
 ## [2026-07-02] fix | Merge-Marker aus Obsidian-Vault bereinigt
 - Entfernt verbliebene Git-Konfliktmarker aus Markdown-Dateien nach der lokalen Obsidian-Git-Historienreparatur.
 - Inhaltliche Blöcke wurden beibehalten; nur technische Marker entfernt.
+
+## [2026-07-02] update | Heterotopie-Fallzettel inhaltlich angereichert
+- Vier Positive-News-Fallzettel ausgebaut: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
+- Ergänzt: stärkere ideologiekritische Krisenlesart, Machtbegrenzung, Ambivalenz, Vault-Verbindungen und offene Anschlussfragen.
+- Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] und [[Projekt - Positive Nachrichten als Heterotopienmaterial]] mit präziseren Fallzusammenfassungen.

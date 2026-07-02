@@ -110,10 +110,10 @@ Wichtig: Sie sind keine fertigen Utopien. Sie bleiben im beschädigten Ganzen un
 
 Der Heterotopien-Strang beginnt nicht mit großen Utopieentwürfen, sondern mit kleinen positiven Nachrichten, die als **Krisenindikatoren** gelesen werden. Erste Fallzettel:
 
-- [[Fall - EU-Badegewässer als ökologische Heterotopie]] — Gemeingüter gegen ökologische Externalisierung.
-- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]] — Care und Körper gegen Vereins-/Vertragsmacht.
-- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] — öffentliche Daten gegen Marktasymmetrie.
-- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]] — materielle Anerkennung gegen koloniale Entlastungserzählung.
+- [[Fall - EU-Badegewässer als ökologische Heterotopie]] — öffentliche Mess- und Schutzinfrastruktur gegen ökologische Externalisierung; Wasser als Gemeingut statt Entsorgungsfläche oder Standortmarke.
+- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]] — Care, Körper und Nicht-Verfügbarkeit gegen die Sportindustrie; Professionalisierung nur progressiv, wenn Schutzrechte mitprofessionalisieren.
+- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] — Alltagsdaten als Gemeingut gegen Marktasymmetrie; kritisch offen, ob Transparenz Regulierung ermöglicht oder nur Konsument:innen responsibilisiert.
+- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]] — Erinnerung als Haftung und Umverteilung gegen koloniale Entlastungserzählung; Reparationen als Öffnung, nicht Schlussstrich.
 
 Diese Fälle sind bewusst klein gehalten: Sie sind keine Versöhnung, sondern konkrete Stellen, an denen andere Logiken praktisch werden.
 

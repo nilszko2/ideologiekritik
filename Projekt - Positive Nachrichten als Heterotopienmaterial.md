@@ -136,9 +136,9 @@ Aus den letzten 20 Positive-News-Läufen und 10 Corporate-Watch-Läufen automati
 
 ## Begonnene Fallzettel
 
-- [[Fall - EU-Badegewässer als ökologische Heterotopie]]
-- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]]
-- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]]
-- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]]
+- [[Fall - EU-Badegewässer als ökologische Heterotopie]] — Raster erweitert um Gemeingut, Messinfrastruktur, Standortmarketing-Ambivalenz.
+- [[Fall - Mutterschutz im Profifußball als Arbeitsrechts-Heterotopie]] — Raster erweitert um Care, Körperverfügbarkeit, Sportarbeitsmarkt und Professionalisierungsambivalenz.
+- [[Fall - Lebensmittelpreis-Transparenz als Informationsgegenmacht]] — Raster erweitert um Alltagsdaten als Gemeingut, Plattformmacht und Responsibilisierung.
+- [[Fall - Reparationen Belgien Kongo als materielle Erinnerungspolitik]] — Raster erweitert um materielle Erinnerung, koloniale Entlastung und Schlussstrich-Kritik.
 
 Nächster Schritt: Weitere Good-News-Läufe nach demselben Raster auswerten und jeweils mit einer negativen Gegenfolie aus Corporate Watch oder Tageszetteln verbinden.
