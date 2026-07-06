@@ -20,7 +20,9 @@
 - Cloned GitHub repo `nilszko2/ideologiekritik` (205 existing notes)
 - Synced 48 new files (44 Quellenmappen + Diskurs + Theorie + SCHEMA)
 - GitHub PAT configured for push via credential helper
-- **Extracted 18 Zettel from 10 Tages-Quellenmappen (19.-28.06.):**\n  - 8 Konzept-Zettel: Gaza-Blockade, Rüstungsökonomie, Regulatory Capture, Plattformmacht, Sprachpolitik, Sahel-Krise, KI-Sicherheit, Digitaler Euro\n  - 10 Tageszettel (täglich 19.-28.06.)
+- **Extracted 18 Zettel from 10 Tages-Quellenmappen (19.-28.06.):**
+  - 8 Konzept-Zettel: Gaza-Blockade, Rüstungsökonomie, Regulatory Capture, Plattformmacht, Sprachpolitik, Sahel-Krise, KI-Sicherheit, Digitaler Euro
+  - 10 Tageszettel (täglich 19.-28.06.)
 - **4 MOCs erstellt:** Gaza-Blockade & Nahost, Rüstungsökonomie, Demokratie & Sprachpolitik, Digitale Macht & KI
 - Index aktualisiert (240 total pages)
 - Cronjobs updated to write to GitHub repo + auto-push every 6h
@@ -52,8 +54,3 @@
 - Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-03.md`
 - Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-03.md`
 - Index aktualisiert (46 Quellenmappen), Log erweitert
-
-## [2026-07-05] update | Abendpodcast Quellenmappe erstellt
-- Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-05.md`
-- Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-05.md`
-- Index aktualisiert (47 Quellenmappen), Log erweitert
