@@ -1,5 +1,4 @@
 # Ideologiekritik-Vault — Log
-
 > Chronological record. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
@@ -27,30 +26,31 @@
 - Index aktualisiert (240 total pages)
 - Cronjobs updated to write to GitHub repo + auto-push every 6h
 - update 2026-06-30: Abendpodcast/Quellenmappe erstellt
-
 - 2026-07-01 update: Heterotopienmöglichkeiten-Strang angelegt: MOC, Konzept Heterotopie, Negative Dialektik als nüchterne Kenntnisnahme, Positive Nachrichten als Krisenindikatoren, Projekt Positive Nachrichten als Heterotopienmaterial.
-## [2026-07-02] update | Heterotopien-Strang mit Positive-News-Fallzetteln verbunden
+- ## [2026-07-02] update | Heterotopien-Strang mit Positive-News-Fallzetteln verbunden
 - GitHub-Stand der letzten Tage gepullt.
 - Erstellt: [[Tageszettel - 2026-07-01]] als negative Gegenfolie zu Regierungstechnologie/Kontrollverdichtung.
 - Erstellt: vier Fallzettel aus dem Good-News-Material: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
 - Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]], [[Konzept - Positive Nachrichten als Krisenindikatoren]], [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
 - Anschlussverknüpfungen ergänzt in: [[Konzept - Präfigurative Codes]], [[Linke Plattform-Öffentlichkeit als präfigurative Code-Maschine]], [[Plattformkapitalismus als unreflektierte Produktionsbedingung]], [[Cognitive Offloading als Schulungsform]].
-
-## [2026-07-02] fix | Merge-Marker aus Obsidian-Vault bereinigt
+- ## [2026-07-02] fix | Merge-Marker aus Obsidian-Vault bereinigt
 - Entfernt verbliebene Git-Konfliktmarker aus Markdown-Dateien nach der lokalen Obsidian-Git-Historienreparatur.
 - Inhaltliche Blöcke wurden beibehalten; nur technische Marker entfernt.
-
-## [2026-07-02] update | Heterotopie-Fallzettel inhaltlich angereichert
+- ## [2026-07-02] update | Heterotopie-Fallzettel inhaltlich angereichert
 - Vier Positive-News-Fallzettel ausgebaut: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
 - Ergänzt: stärkere ideologiekritische Krisenlesart, Machtbegrenzung, Ambivalenz, Vault-Verbindungen und offene Anschlussfragen.
 - Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] und [[Projekt - Positive Nachrichten als Heterotopienmaterial]] mit präziseren Fallzusammenfassungen.
-
-## [2026-07-02] create | Heterotopiepodcast als Wochenformat skizziert
+- ## [2026-07-02] create | Heterotopiepodcast als Wochenformat skizziert
 - Angelegt: [[Projekt - Heterotopiepodcast]].
 - Quellenregel ergänzt: Positive Nachrichten brauchen künftig Links im begleitenden Zettel; Audio liest Links nicht vor.
 - Verknüpft mit [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] und [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
-
-## [2026-07-03] update | Abendpodcast Quellenmappe erstellt
+- ## [2026-07-03] update | Abendpodcast Quellenmappe erstellt
 - Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-03.md`
 - Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-03.md`
 - Index aktualisiert (46 Quellenmappen), Log erweitert
+- ## [2026-07-07] update | Abendpodcast und Quellenmappe erstellt
+- Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-07.txt`
+- Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-07.md`
+- Index aktualisiert (47 Quellenmappen), Log erweitert
+- Audiodatei erstellt: `/opt/data/audio_cache/tts_20260707_203333.mp3`
+- Git-Push ausgeführt: cd /opt/data/ideologiekritik-github && git add -A && git diff --cached --quiet || (git commit -m "Hermes: Abendpodcast Quellenmappe 2026-07-07" && git push origin main)
