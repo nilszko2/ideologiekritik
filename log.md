@@ -1,9 +1,8 @@
 # Ideologiekritik-Vault — Log
->
+
 > Chronological record. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
->
 
 ## [2026-06-29] create | Vault initialized
 - Domain: Ideologiekritik, Diskursanalyse, Corporate Watch, Neurodiversität
@@ -29,13 +28,7 @@
 - Cronjobs updated to write to GitHub repo + auto-push every 6h
 - update 2026-06-30: Abendpodcast/Quellenmappe erstellt
 
-## [2026-07-01] update | Heterotopienmöglichkeiten-Strang angelegt: MOC, Konzept Heterotopie, Negative Dialektiksehrtik als nüchterne Kenntnisnahme, Positive Nachrichten als Krisenindikatoren, Projekt Positive Nachrichten als Heterotopienmaterial.
-- GitHub-Stand der letzten Tage gepullt.
-- Erstellt: [[Tageszettel - 2026-07-01]] als negative Gegenfolie zu Regierungstechnologie/Kontrollverdichtung.
-- Erstellt: vier Fallzettel aus dem Good-News-Material: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
-- Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]], [[Konzept - Positive Nachrichten als Krisenindikatoren]], [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
-- Anschlussverknüpfungen ergänzt in: [[Konzept - Präfigurative Codes]], [[Linke Plattform-Öffentlichkeit als präfigurative Code-Maschine]], [[Plattformkapitalismus als unreflektierte Produktionsbedingung]], [[Cognitive Offloading als Schulungsform]].
-
+- 2026-07-01 update: Heterotopienmöglichkeiten-Strang angelegt: MOC, Konzept Heterotopie, Negative Dialektik als nüchterne Kenntnisnahme, Positive Nachrichten als Krisenindikatoren, Projekt Positive Nachrichten als Heterotopienmaterial.
 ## [2026-07-02] update | Heterotopien-Strang mit Positive-News-Fallzetteln verbunden
 - GitHub-Stand der letzten Tage gepullt.
 - Erstellt: [[Tageszettel - 2026-07-01]] als negative Gegenfolie zu Regierungstechnologie/Kontrollverdichtung.
@@ -61,8 +54,3 @@
 - Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-03.md`
 - Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-03.md`
 - Index aktualisiert (46 Quellenmappen), Log erweitert
-
-## [2026-07-08] update | Abendpodcast Quellenmappe erstellt
-- Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-08.md`
-- Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-08.md`
-- Index aktualisiert (Quellenmappen hinzugefügt), Log erweitert

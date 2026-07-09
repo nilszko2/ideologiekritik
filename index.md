@@ -1,4 +1,5 @@
 # Ideologiekritik-Vault — Index
+
 > Content catalog. Read this first to find relevant pages.
 > Last updated: 2026-07-02 | Total pages: ~246
 > Obsidian Vault: `/opt/data/ideologiekritik-vault/` (flache Struktur, alle Dateien direkt im Root)
@@ -17,6 +18,7 @@
 - [[Konzept - Sahel-Krise]] — 4,1 Mio. Vertriebene, unterschätzt
 - [[Konzept - KI-Sicherheit]] — KI-Modelle als staatliche Cyber-Architektur
 - [[Konzept - Digitaler Euro]] — Programmierbare Zahlungen als Überwachung
+
 
 ### Fallzettel — Heterotopienmöglichkeiten
 - [[Fall - EU-Badegewässer als ökologische Heterotopie]] — öffentliche Umweltregulierung als Schutz eines Gemeinguts
@@ -45,17 +47,14 @@
 - [[MOC - Digitale Macht & KI]] — Digitale Macht & KI-Regulierung
 
 ## Quellenmappen (45)
-|||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
-|||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
-||| 
-
-## Quellenmappen (47)
-|||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
-|||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-08]] — Abend-Quellenmappe 08.07.2026
-||| 
-
+||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
+||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
+|| 
+## Quellenmappen (46)
+||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
+||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
+||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
+|| 
 ## Diskursanalyse (3)
 - [[literatur_diskurskarte_linkspolitik_20260511]] — Linke-politik Diskurskarte
 - [[soziologie_diskursradar_2026-05-25]] — Soziologie-Radar
@@ -73,7 +72,7 @@
 <!-- Corporate power, billionaire misconduct, regulatory capture -->
 
 ## ADHD-ND-Erkenntnisse
-<!-- ADHD-ND voice notes and reflections -->
+<!-- Neurodivergent insights from lived experience -->
  [[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
  [[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
- [[00_Inbox/Abendpodcast - 2026-07-08|Abendpodcast - 2026-07-08]]
+ 
