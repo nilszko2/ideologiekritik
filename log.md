@@ -1,5 +1,5 @@
 # Ideologiekritik-Vault — Log
->
+
 > Chronological record. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
@@ -54,10 +54,3 @@
 - Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-03.md`
 - Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-03.md`
 - Index aktualisiert (46 Quellenmappen), Log erweitert
-
-## [2026-07-10] update | Abendpodcast Quellenmappe erstellt
-- Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-10.md`
-- Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-10.md`
-- Index aktualisiert (47 Quellenmappen), Log erweitert
-- Audio-Datei erstellt: `/opt/data/audio_cache/abendpodcast_2026-07-10.ogg`
-- Git push durchgeführt
