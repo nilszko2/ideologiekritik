@@ -73,6 +73,7 @@
 
 ## ADHD-ND-Erkenntnisse
 <!-- Neurodivergent insights from lived experience -->
- [[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
- [[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
- 
+[[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
+[[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
+[[00_Inbox/Abendpodcast - 2026-07-12|Abendpodcast - 2026-07-12]]
+
