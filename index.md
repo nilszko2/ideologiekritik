@@ -76,4 +76,3 @@
  [[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
  [[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
  
-[Abendpodcast 2026-07-16](/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast%20-%202026-07-16.md)
