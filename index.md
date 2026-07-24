@@ -45,20 +45,16 @@
 - [[MOC - Rüstungsökonomie]] — Rüstung & Kriegs-Infrastruktur
 - [[MOC - Demokratie & Sprachpolitik]] — Demokratieförderung & Sprachpolitik
 - [[MOC - Digitale Macht & KI]] — Digitale Macht & KI-Regulierung
-## Quellenmappen (47)
-|||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
-|||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-23]] — Abend-Quellenmappe 23.07.202626
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-23]] — Abend-Quellenmappe 23.07.2026Quellenmappen (47)
-|||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
-|||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-23]] — Abend-Quellenmappe 23.07.202626
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-23]] — Abend-Quellenmappe 23.07.2026d-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-23]] — Abend-Quellenmappe 23.07.2026
+
+## Quellenmappen (45)
+||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
+||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
+|| 
+## Quellenmappen (46)
+||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
+||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
+||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
+|| 
 ## Diskursanalyse (3)
 - [[literatur_diskurskarte_linkspolitik_20260511]] — Linke-politik Diskurskarte
 - [[soziologie_diskursradar_2026-05-25]] — Soziologie-Radar
