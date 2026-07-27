@@ -35,6 +35,7 @@
 - Erstellt: vier Fallzettel aus dem Good-News-Material: EU-Badegewässer, Mutterschutz im Profifußball, Lebensmittelpreis-Transparenz, Belgien/Kongo-Reparationen.
 - Aktualisiert: [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]], [[Konzept - Positive Nachrichten als Krisenindikatoren]], [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
 - Anschlussverknüpfungen ergänzt in: [[Konzept - Präfigurative Codes]], [[Linke Plattform-Öffentlichkeit als präfigurative Code-Maschine]], [[Plattformkapitalismus als unreflektierte Produktionsbedingung]], [[Cognitive Offloading als Schulungsform]].
+
 ## [2026-07-02] fix | Merge-Marker aus Obsidian-Vault bereinigt
 - Entfernt verbliebene Git-Konfliktmarker aus Markdown-Dateien nach der lokalen Obsidian-Git-Historienreparatur.
 - Inhaltliche Blöcke wurden beibehalten; nur technische Marker entfernt.
@@ -48,3 +49,8 @@
 - Angelegt: [[Projekt - Heterotopiepodcast]].
 - Quellenregel ergänzt: Positive Nachrichten brauchen künftig Links im begleitenden Zettel; Audio liest Links nicht vor.
 - Verknüpft mit [[MOC - Heterotopienmöglichkeiten einer progressiven Welt]] und [[Projekt - Positive Nachrichten als Heterotopienmaterial]].
+
+## [2026-07-03] update | Abendpodcast Quellenmappe erstellt
+- Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-03.md`
+- Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-03.md`
+- Index aktualisiert (46 Quellenmappen), Log erweitert
