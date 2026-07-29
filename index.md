@@ -1,7 +1,7 @@
 # Ideologiekritik-Vault — Index
 
 > Content catalog. Read this first to find relevant pages.
-> Last updated: 2026-07-02 | Total pages: ~246
+> Last updated: 2026-07-29 | Total pages: ~247
 > Obsidian Vault: `/opt/data/ideologiekritik-vault/` (flache Struktur, alle Dateien direkt im Root)
 
 ## 01_Zettel — Atomare Notizen (18 neu, Juni 2026)
@@ -18,7 +18,6 @@
 - [[Konzept - Sahel-Krise]] — 4,1 Mio. Vertriebene, unterschätzt
 - [[Konzept - KI-Sicherheit]] — KI-Modelle als staatliche Cyber-Architektur
 - [[Konzept - Digitaler Euro]] — Programmierbare Zahlungen als Überwachung
-
 
 ### Fallzettel — Heterotopienmöglichkeiten
 - [[Fall - EU-Badegewässer als ökologische Heterotopie]] — öffentliche Umweltregulierung als Schutz eines Gemeinguts
@@ -45,20 +44,13 @@
 - [[MOC - Rüstungsökonomie]] — Rüstung & Kriegs-Infrastruktur
 - [[MOC - Demokratie & Sprachpolitik]] — Demokratieförderung & Sprachpolitik
 - [[MOC - Digitale Macht & KI]] — Digitale Macht & KI-Regulierung
-## Quellenmappen (47)
-|||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
-|||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-27]] — Abend-Quellenmappe 27.07.2026
-||| 
-6-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-27]] — Abend-Quellenmappe 27.07.2026
-||| 
-e
-|||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
-|||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
-|||- [[quellenmappe_2026-07-27]] — Abend-Quellenmappe 27.07.2026
-||| 
+
+## Quellenmappen
+- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
+- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
+- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
+- [[quellenmappe_2026-07-27]] — Abend-Quellenmappe 27.07.2026
+- [[quellenmappe_2026-07-29]] — Abend-Quellenmappe 29.07.2026
 
 - [[literatur_diskurskarte_linkspolitik_20260511]] — Linke-politik Diskurskarte
 - [[soziologie_diskursradar_2026-05-25]] — Soziologie-Radar
@@ -73,10 +65,7 @@ e
 ## Corporate Watch
 - [[Projekt - Positive Nachrichten als Heterotopienmaterial]] — Good News + Corporate Watch als Materialpool für progressive Heterotopien
 - [[Projekt - Heterotopiepodcast]] — Wochenformat für eine gesprochene, quellenverlinkte Verdichtung positiver Nachrichten als Heterotopie-Fälle
-<!-- Corporate power, billionaire misconduct, regulatory capture -->
 
 ## ADHD-ND-Erkenntnisse
-<!-- Neurodivergent insights from lived experience -->
- [[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
- [[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
- 
+- [[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
+- [[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
