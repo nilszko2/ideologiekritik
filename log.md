@@ -54,4 +54,3 @@
 - Abendpodcast-Datei erstellt: `/opt/data/ideologiekritik-github/00_Inbox/Abendpodcast - 2026-07-03.md`
 - Quellenmappe erstellt: `/opt/data/ideologiekritik-github/Quellenmappen/quellenmappe_2026-07-03.md`
 - Index aktualisiert (46 Quellenmappen), Log erweitertupdate 2026-07-27: Abendpodcast/Quellenmappe erstellt
-update 2026-07-28: Abendpodcast/Quellenmappe erstellt
