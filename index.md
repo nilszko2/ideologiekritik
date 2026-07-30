@@ -45,11 +45,12 @@
 - [[MOC - Rüstungsökonomie]] — Rüstung & Kriegs-Infrastruktur
 - [[MOC - Demokratie & Sprachpolitik]] — Demokratieförderung & Sprachpolitik
 - [[MOC - Digitale Macht & KI]] — Digitale Macht & KI-Regulierung
-## Quellenmappen (47)
+## Quellenmappen (48)
 |||- [[quellenmappe_2026-05-15]] — Abend-Quellenmappe
 |||- [[quellenmappe_2026-06-30]] — Abend-Quellenmappe 30.06.2026
 |||- [[quellenmappe_2026-07-03]] — Abend-Quellenmappe 03.07.2026
 |||- [[quellenmappe_2026-07-27]] — Abend-Quellenmappe 27.07.2026
+|||- [[quellenmappe_2026-07-30]] — Abend-Quellenmappe 30.07.2026
 ||| 
 6-07-03]] — Abend-Quellenmappe 03.07.2026
 |||- [[quellenmappe_2026-07-27]] — Abend-Quellenmappe 27.07.2026
