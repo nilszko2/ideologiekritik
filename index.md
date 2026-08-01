@@ -80,4 +80,3 @@ e
  [[00_Inbox/Abendpodcast - 2026-06-30|Abendpodcast - 2026-06-30]]
  [[00_Inbox/Abendpodcast - 2026-07-03|Abendpodcast - 2026-07-03]]
  
-[[Abendpodcast - 2026-07-31]]
